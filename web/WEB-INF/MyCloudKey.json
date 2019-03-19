@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clothe",
+  "private_key_id": "201962577d28a5c1125a36ca4bb0634365c864cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx8QdEWgg1tZKv\n9cHS+n8m8nieg//Grng7hruxroANSPM75VzDpEiA1b7E8DCuT+gk81adsor0wF72\n468WVAen/gIkBTBirJXJfP83tT/uKwtRbBrLrGlIFmaUMqYl7fFRHz7iooOzVGwN\nBZKBoDxvhtV1q506wlh844rAma/Ppl8Taz+zFOklrXQCQ0xV3Un1/YqKN1mdDfb8\nm+q1avgS/lGMgifEyKUo5wZZqhQY8QIm/0jMvBT4Yop4CXQj888pbTldy2qpLOqI\nLypAyp7gB1zSyhEfOSzcCdIDbi8RUHDqzNi8JaIfDqBtS+P3SYv9mkGv8FbMtJbG\n8swlEzfPAgMBAAECggEABjXdWmYHXKiGWByBs/VeNA5zu0SWzBO8H90R9p+ahIbZ\nRmvjkvMhkgLjx50tIHMALS9OWe6oqZDVP6oEAF7VGD3l9o/fzRyCQH1braa7y8+L\nc5S2/V4lG95RnOEvqf87VD4nmbgGVLSg7iDAU5neF3O4m4TD1hCBD3V5mu3s6Zhb\n7f/DCGgNLg+yn00eLsvA6b2SpuVgJWSp6xgT4mPibeqG170Si7yt+9uawUDVNED0\nwfnMoO6kwuyKWDRzBs2IRD/2X1EDevAlrxMKtWFPCkqeLd1iJ1kMKI21im/ktVkw\n8kch5ExSEBrg4bO6u7L7owPhbFfcd7OmuCTEygpbAQKBgQDt5xxqoGqPyT56WQCo\nfMPRN16nqZZP6bql8ez9tNm8cA057l5TkxAgm85ROTDAManMvtiUwqLTQZCsZrG4\n1OdYvT5kc1wyTpAcNh1hC92usijjfCJNje2pLHpa1iaS5iror0LDN1nk8O/NXdpp\nBHCcED0USl4RUtEgzUIpv9CQQQKBgQC/ej1B10z6lsIEvc7lqsV9NBVBIwhC6vip\nyN/Wap6SXCzsFpN+cmxLMAZIsQwKvCIpXUUT/E1L/BCf+vG++VRYYKqyE8O+N2++\ng9SNZNNfjDgba5idgd1ddBungqBr51V50SGbEQvKtlWhOlo6BiEpwMyG1WxG3jsV\nvxnPXynEDwKBgEKbm3QrF8rMMIb21l1WGUlBdGoC7EfRi+WcV5stAG1m/f0DRTun\nCDPpC5noJkMZZI4jvOXhnM8DI2txkT7LtT4+NfLP7bdUEbskV5NtTBL2ZMZUYhJO\ns4TTJCq8nK4ybT8amtmnbK7R2oIoTddrW9AGJ+O/cpjtFApYDbc8sjtBAoGAccsP\nxKVTVklqHK9A2jTXEUV2rDNJoZtLFHwQqrjKbGjjOZthJHCT80sjMOgnI+oS00pe\n1zXGKjYvGyRjrv82JR+t0g708YK4ohxuoWkeRVZrscAL/u9Cw1tRZAe5lubwYWjr\n89/5hgs+cIbhQEKMSugNpMQJiURhENd1W0xO4fkCgYEA0iTpvixGoGuZw2vih+QQ\nT3dluvoea7hxo+SNkK5xEmOHNs829rHKgyccf44OM1BZTRRNZbMKfEQyFgqPkMU5\ndXfxiUUxKcdNyPDt3QhdnEPzvMM+hH8MHZQ1iL5BAN70dq03pZnKb6QIgK3fJDHL\nw/KSNQAGe45in4kQVMYVtLE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "phanlam@clothe.iam.gserviceaccount.com",
+  "client_id": "111512492927360035876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phanlam%40clothe.iam.gserviceaccount.com"
+}
